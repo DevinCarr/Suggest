@@ -3,3 +3,6 @@
 
 # executable
 s
+
+# auth header file
+auth.h

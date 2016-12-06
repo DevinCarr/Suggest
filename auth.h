@@ -1,1 +1,0 @@
-#define AUTHPWD "04aa087ff33e4e7792c0a5e9e797dd9d"
