@@ -26,7 +26,7 @@ To start, a `auth.h` file must be created in the source directory.
 
 `auth.h` must contain your API key, for example:
 ```
-#define AUTHPWD ajsd908f09as8d098as09d
+#define AUTHPWD "ajsd908f09as8d098as09d"
 ```
 
 ## Build
